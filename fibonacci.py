@@ -1,4 +1,4 @@
-num=int(input())
+num=int(input("Enter your fibonacci number : "))
 def fib(n):
 	a,b=0,1
 	if n==1:
